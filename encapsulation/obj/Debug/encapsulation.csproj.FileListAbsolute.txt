@@ -1,0 +1,7 @@
+E:\noor\encapsulation\encapsulation\bin\Debug\encapsulation.exe.config
+E:\noor\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+E:\noor\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+E:\noor\encapsulation\encapsulation\obj\Debug\encapsulation.csprojAssemblyReference.cache
+E:\noor\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.CoreCompileInputs.cache
+E:\noor\encapsulation\encapsulation\obj\Debug\encapsulation.exe
+E:\noor\encapsulation\encapsulation\obj\Debug\encapsulation.pdb
